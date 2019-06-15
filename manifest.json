@@ -1,0 +1,38 @@
+{
+  "name": "AksesBlog.com",
+  "short_name": "AksesBlog.com",
+  "start_url": "https://www.aksesblog.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009688",
+  "description": "News Blogger, Tutorial, Tekno dan Review Product",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s48/icons8-windows-defragmenter-480.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s72/icons8-windows-defragmenter-480.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s96/icons8-windows-defragmenter-480.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s144/icons8-windows-defragmenter-480.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s168/icons8-windows-defragmenter-480.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s192/icons8-windows-defragmenter-480.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1OQ6EAJyQBY/XQTJb4gHx3I/AAAAAAAAAYs/i-U18JpLtMART3d9YOg-wjaGyYg_HzIdQCLcBGAs/s512/icons8-windows-defragmenter-480.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
